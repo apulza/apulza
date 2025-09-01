@@ -1,7 +1,9 @@
 👋 Hi, I'm Siddharth Patel
 
 💻 Computer Science Student | AI/ML Researcher | Coding Instructor
+
 🎓 B.S. Computer Science (AI Concentration), Minor in Business Administration – Northeastern University
+
 🚀 Passionate about AI, teaching, and building impactful projects
 
 🔹 About Me

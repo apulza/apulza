@@ -6,6 +6,7 @@
 
 🚀 Passionate about AI, teaching, and building impactful projects
 
+
 🔹 About Me
 
 🌱 Exploring semantic segmentation, causal inference, and knowledge graphs through research at Northeastern’s AI Perception Lab
@@ -16,13 +17,16 @@
 
 🌐 Interested in AI for education, ethical technology, and sustainable innovation
 
+
 🛠 Technical Skills
 
 Languages: Java, Python, JavaScript, C#, C++, SQL, Racket, HTML/CSS
 Tools & Platforms: Git, GitHub, Google Colab, Jupyter Notebook, IntelliJ, Eclipse, VS Code, Linux, LaTeX
 Domains: AI/ML (Deep Learning, Neural Networks, Regression, Classification, NLP), Data Preprocessing
 
+
 📌 Featured Projects
+
 🔹 Problem Reporting and Solution Tracker
 
 AI-powered platform improving community engagement by 25%
@@ -38,6 +42,7 @@ AI-driven greenhouse solution addressing global food scarcity
 Built a dual-robot system (Raspberry Pi 4 + Pololu 3pi+) for real-time environmental monitoring
 
 Boosted projected crop output by 30% with AI-based decision-making on pest control & disease management
+
 
 
 📫 Connect with Me

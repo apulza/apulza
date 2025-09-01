@@ -24,7 +24,9 @@
 🛠 Technical Skills
 
 Languages: Java, Python, JavaScript, C#, C++, SQL, Racket, HTML/CSS
+
 Tools & Platforms: Git, GitHub, Google Colab, Jupyter Notebook, IntelliJ, Eclipse, VS Code, Linux, LaTeX
+
 Domains: AI/ML (Deep Learning, Neural Networks, Regression, Classification, NLP), Data Preprocessing
 
 --------------------------------------------------------------------------------------------------------------------------------------------

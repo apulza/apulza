@@ -6,6 +6,7 @@
 
 🚀 Passionate about AI, teaching, and building impactful projects
 
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 🔹 About Me
 
@@ -17,12 +18,16 @@
 
 🌐 Interested in AI for education, ethical technology, and sustainable innovation
 
+--------------------------------------------------------------------------------------------------------------------------------------------
+
 
 🛠 Technical Skills
 
 Languages: Java, Python, JavaScript, C#, C++, SQL, Racket, HTML/CSS
 Tools & Platforms: Git, GitHub, Google Colab, Jupyter Notebook, IntelliJ, Eclipse, VS Code, Linux, LaTeX
 Domains: AI/ML (Deep Learning, Neural Networks, Regression, Classification, NLP), Data Preprocessing
+
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 
 📌 Featured Projects
@@ -43,6 +48,7 @@ Built a dual-robot system (Raspberry Pi 4 + Pololu 3pi+) for real-time environme
 
 Boosted projected crop output by 30% with AI-based decision-making on pest control & disease management
 
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 
 📫 Connect with Me

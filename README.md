@@ -10,7 +10,7 @@
 
 🔹 About Me
 
-🌱 Exploring semantic segmentation, causal inference, and knowledge graphs through research at Northeastern’s AI Perception Lab
+🌱 Explored semantic segmentation, causal inference, and knowledge graphs through research at Northeastern’s AI Perception Lab
 
 🎓 Experience as a Math TA (Calculus I) and Coding Instructor (Python, Java, JavaScript, C#, HTML/CSS)
 

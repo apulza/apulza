@@ -59,6 +59,6 @@ Boosted projected crop output by 30% with AI-based decision-making on pest contr
 
 ✉️ Email: patel.siddharth1@northeastern.edu
 
-🌐 Website: siddharthmpatel.com
+🌐 Website: https://siddharthmpatel.com/
 
  

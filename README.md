@@ -25,12 +25,12 @@
 
 Languages:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,cs,cpp,html,css,r,vscode,git,github,linux,latex" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,cs,cpp,html,css" />
 </p>
 
 Tools & Platforms:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,idea,eclipse,vscode,linux,latex" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,vscode,linux,latex" />
 </p>
 
 

@@ -1,4 +1,4 @@
-👋 Hi, I'm Siddharth Patel
+### 👋 Hi, I'm Siddharth Patel
 
 💻 Computer Science Student | AI/ML Researcher | Coding Instructor
 
@@ -8,7 +8,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-🔹 About Me
+### 🔹 About Me
 
 🌱 Explored semantic segmentation, causal inference, and knowledge graphs through research at Northeastern’s AI Perception Lab
 
@@ -21,7 +21,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 
-🛠 Technical Skills
+### 🛠 Technical Skills
 
 Languages:
 <p align="left">
@@ -38,7 +38,7 @@ Tools & Platforms:
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 
-📌 Featured Projects
+### 📌 Featured Projects
 
 🔹 Problem Reporting and Solution Tracker
 
@@ -59,7 +59,7 @@ Boosted projected crop output by 30% with AI-based decision-making on pest contr
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 
-📫 Connect with Me
+### 📫 Connect with Me
 
 💼 LinkedIn: https://www.linkedin.com/in/siddharth-patel1/
 

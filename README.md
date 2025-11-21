@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Siddharth Patel
+### 👋 Hi, I'm Sid
 
 💻 Computer Science Student | AI/ML Researcher | Coding Instructor
 

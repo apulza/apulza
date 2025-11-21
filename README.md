@@ -23,11 +23,17 @@
 
 🛠 Technical Skills
 
-Languages: Java, Python, JavaScript, C#, C++, SQL, Racket, HTML/CSS
+Languages:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,cs,cpp,html,css,r,vscode,git,github,linux,latex" />
+</p>
 
-Tools & Platforms: Git, GitHub, Google Colab, Jupyter Notebook, IntelliJ, Eclipse, VS Code, Linux, LaTeX
+Tools & Platforms:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,idea,eclipse,vscode,linux,latex" />
+</p>
 
-Domains: AI/ML (Deep Learning, Neural Networks, Regression, Classification, NLP), Data Preprocessing
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 

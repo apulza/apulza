@@ -25,7 +25,7 @@
 
 Languages:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,cs,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,cs,cpp,html,css,mysql" />
 </p>
 
 Tools & Platforms:

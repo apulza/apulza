@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Sid
 
-💻 Computer Science Student | AI/ML Researcher | Coding Instructor
+💻 Computer Science Student | AI/ML Researcher | Coding Instructor | Teaching Assistant
 
 🎓 B.S. Computer Science (AI Concentration), Minor in Business Administration – Northeastern University
 

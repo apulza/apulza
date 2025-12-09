@@ -38,27 +38,6 @@ Tools & Platforms:
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 
-### 📌 Featured Projects
-
-🔹 Problem Reporting and Solution Tracker
-
-- AI-powered platform improving community engagement by 25%
-
-- Implemented NLP features (sentiment analysis, keyword extraction) with 90%+ accuracy
-
-- Used Retrieval Augmented Generation (RAG) to cut issue resolution time by ~15%
-
-🔹 Swarmscape
-
-- AI-driven greenhouse solution addressing global food scarcity
-
-- Built a dual-robot system (Raspberry Pi 4 + Pololu 3pi+) for real-time environmental monitoring
-
-- Boosted projected crop output by 30% with AI-based decision-making on pest control & disease management
-
---------------------------------------------------------------------------------------------------------------------------------------------
-
-
 ### 📫 Connect with Me
 
 💼 LinkedIn: https://www.linkedin.com/in/siddharth-patel1/

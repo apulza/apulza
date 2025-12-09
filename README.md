@@ -1,10 +1,10 @@
-### 👋 Hi, I'm Sid
+# 👋 Hi, I'm Sid
 
 💻 Computer Science Student | AI/ML Researcher | Coding Instructor | Teaching Assistant
 
-🎓 B.S. Computer Science (AI Concentration), Minor in Business Administration – Northeastern University
+🎓 B.S. Computer Science (AI Concentration), Minor in Business Administration @ Northeastern University
 
-🚀 Passionate about AI, teaching, and building impactful projects
+🚀 Passionate about AI/ML, Software Engineering, and Finance
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 

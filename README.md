@@ -33,6 +33,7 @@ Tools & Platforms:
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,vscode,linux,latex" />
 </p>
 
+> 💡 **Note on GitHub Activity:** My contribution graph doesn't show the full picture! The vast majority of my daily development work and commits take place within private enterprise and organization repositories.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------

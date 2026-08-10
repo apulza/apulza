@@ -1,22 +1,22 @@
 # 👋 Hi, I'm Sid
 
-💻 Computer Science Student | AI/ML Researcher | Coding Instructor | Teaching Assistant
+💻 Computer Science Student | Software Engineer | Full-Stack & AI/ML
 
 🎓 B.S. Computer Science (AI Concentration), Minor in Business Administration @ Northeastern University
 
-🚀 Passionate about AI/ML, Software Engineering, and Finance
+🚀 Passionate about AI/ML, Scalable Software Systems, and Fintech
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🔹 About Me
 
-🌱 Explored semantic segmentation, causal inference, and knowledge graphs through research at Northeastern’s AI Perception Lab
+🌱 **Software Engineering:** Built scalable AI and full-stack solutions during internships at **Travelers** and **Waterside Group**.
 
-🎓 Experience as a Math TA (Calculus I) and Coding Instructor (Python, Java, JavaScript, C#, HTML/CSS)
+🤖 **AI/ML Focus:** Researched semantic segmentation, causal inference, and knowledge graphs at Northeastern’s **AI Perception Lab**.
 
-🤝 Skilled at breaking down complex technical concepts for students and peers
+🤝 **Leadership & Teaching:** Experience as a Math TA (Calculus I), Resident Assistant (Engineering LLC), and Coding Instructor.
 
-🌐 Interested in AI for education, ethical technology, and sustainable innovation
+🌐 **Interests:** Full-Stack, Applied AI/ML, Cloud Infrastructure, Fintech, and Ethical Technology.
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 

@@ -41,10 +41,10 @@ Tools & Platforms:
 
 ### 📫 Connect with Me
 
-💼 LinkedIn: https://www.linkedin.com/in/siddharth-patel1/
+💼 LinkedIn: https://www.linkedin.com/in/siddharth-patel1
 
 ✉️ Email: patel.siddharth1@northeastern.edu
 
-🌐 Website: https://siddharthmpatel.com/
+🌐 Website: https://siddharthmpatel.com
 
  
